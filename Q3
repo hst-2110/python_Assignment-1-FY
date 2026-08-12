@@ -1,0 +1,3 @@
+print('a. Class by "M S University" is very good.')
+print('''b. Class by "M S University" for 'python' is very good.''')
+print('c. MSc in data science\n Semester one\n python')
