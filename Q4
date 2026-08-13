@@ -1,0 +1,2 @@
+#This program is to add space between hello world using "+" operator.
+print("hello"+" world")
