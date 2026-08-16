@@ -1,9 +1,10 @@
 #In this program some arithmetic operators are used.
-print("This program is do some arithmetic operations, please enter two numbers a and b")
- a = int(input("Enter the first value,a:"))
-b = int(input("Enter the second value,b:"))
-print("Addition:",a+b) print("Subraction:",a-b)
-print("Multiplication:",a*b)
+print("This program is do some arithmetic operations, the  two numbers are 8 and 2")
+a = 8
+b = 2
+print("Addition:",a+b) 
+print("Subraction:",a-b)
+print("Multiplication:", a*b)
 print("Division:",a/b)
 print("Floor Division:",a//b)#it provides only the absolute value of the answer.
 print("Modulus:",a%b)#it gives only the remainder as the answer after division, useful in various areas 
