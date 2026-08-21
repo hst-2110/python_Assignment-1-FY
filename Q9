@@ -1,0 +1,5 @@
+#9. Program to find average of two numbers.
+print("This program is to calculate avg of two numbers 5 and 8.")
+a = 5
+b = 8
+print(a+b/2)
