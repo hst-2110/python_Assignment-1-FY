@@ -1,0 +1,6 @@
+#11. Program to calculate area of a room.
+print("This program is to calculate area of a room.")
+l = float(input(" Enter the length of the room:"))
+b = float(input(" Enter the breadth of the room:"))
+A = l*b
+print(f" The area of the required room is {A}.")
