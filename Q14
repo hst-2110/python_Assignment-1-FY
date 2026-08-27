@@ -1,0 +1,7 @@
+#14. Program to calculate simple interest.
+print("This program is to calculate simple interest.")
+p = float(input(" Enter the principal amount:"))
+r = float(input(" Enter the rate of interest per year:"))
+t= float(input(" Enter the time period in years:"))
+sim_int = p*r*t/100
+print(f" Therefore the simple interest will be {sim_int}")
