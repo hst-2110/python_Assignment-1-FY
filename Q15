@@ -1,0 +1,7 @@
+#15. Program to calculate percentage of 3 subjects.
+print("This program is to calculate percentage of 3 subjects.")
+sub1 = float(input(" Enter the marks of first subject:"))
+sub2 = float(input(" Enter the marks of second subject:"))
+sub3 = float(input(" Enter the marks of third subject:"))
+percentage = (sub1+sub2+sub3)/300*100
+print(f" The percentage of 3 subjects will be {percentage}.")
